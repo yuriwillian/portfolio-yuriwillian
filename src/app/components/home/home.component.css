@@ -1,0 +1,13 @@
+.destaque {
+    background-image: url("codigo.jpg");
+    background-color: #cccccc;
+    padding: 100px;
+    height: 200px;
+    width: 300px;
+    margin: auto;
+}
+
+.fundo {
+    width: 100%;
+    background-color: black;
+}
